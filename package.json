@@ -1,5 +1,5 @@
 {
-  "name": "samacursus-api",
+  "name": "node js starter",
   "version": "1.0.0",
   "description": "backend samacursus",
   "main": "./dist/src/index.js",
@@ -28,7 +28,8 @@
     "samacursus",
     "itsmartlab"
   ],
-  "license": "ISC",
+  "author": "Abdoul Aziz Dione",
+  "license": "MIT",
   "nyc": {
     "cache": false,
     "check-coverage": false,
